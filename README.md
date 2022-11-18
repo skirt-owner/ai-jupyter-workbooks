@@ -1,8 +1,8 @@
 # ai-jupyter-workbooks
-how to use: 
+\nhow to use: 
 
-via mybinder.org:
-step 1. enter github.repo.url -> https://github.com/skirt-owner/ai-jupyter-workbooks
+\nvia mybinder.org:
+step 1. enter github.repo.url ->\nhttps://github.com/skirt-owner/ai-jupyter-workbooks
 step 2. go via binder.url
 step 3. in terminal enter:
     1. pip install pip-tools
