@@ -1,12 +1,12 @@
 # ai-jupyter-workbooks
-\nhow to use: 
+how to use: 
+<br /><br />
+via mybinder.org:
+<br />step 1. enter github.repo.url -><br />https://github.com/skirt-owner/ai-jupyter-workbooks
+<br />step 2. go via binder.url
+<br />step 3. in terminal enter:
+<br />____1. pip install pip-tools
+<br />____2. pip-compile requirements.in
+<br />____3. pip install -r requirements.txt
 
-\nvia mybinder.org:
-step 1. enter github.repo.url ->\nhttps://github.com/skirt-owner/ai-jupyter-workbooks
-step 2. go via binder.url
-step 3. in terminal enter:
-    1. pip install pip-tools
-    2. pip-compile requirements.in
-    3. pip install -r requirements.txt
-
-jypiter.notebooks are ready to use!
+<br />jypiter.notebooks are ready to use!
